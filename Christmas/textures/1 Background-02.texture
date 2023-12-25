@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "1 Background-02",
+  "identifier": "texture:212484-14ca64ee-fd00-4ece-8bfa-a03704d91c1d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f18045214b9af574ffae48938da6212f",
+  "assetLocator": "textures/1 Background-02.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 473,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f18045214b9af574ffae48938da6212f",
+      "colorCount": 121809,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 14.931955239321306,
+      "pixelsHigh": 1024,
+      "pixelsWide": 473
+    }
+  ]
+}

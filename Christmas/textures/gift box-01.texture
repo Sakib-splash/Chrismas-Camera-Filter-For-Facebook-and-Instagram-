@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "gift box-01",
+  "identifier": "texture:218294-14ca64ee-fd00-4ece-8bfa-a03704d91c1d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "04105462a4599e2b682e5cfba58e2e0d",
+  "assetLocator": "textures/gift box-01.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 513,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 513,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "04105462a4599e2b682e5cfba58e2e0d",
+      "colorCount": 19292,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.352713648121766,
+      "pixelsHigh": 513,
+      "pixelsWide": 513
+    }
+  ]
+}
